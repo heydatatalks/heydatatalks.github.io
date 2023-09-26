@@ -24,7 +24,7 @@ author: Wang Yue
 ###############################################
 
 navbar-links:
-  Home: ""
+  # Home: ""
   Blog: "blog"
 
 ################
