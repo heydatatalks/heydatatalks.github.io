@@ -17,10 +17,7 @@ baseurl: ""
 title: Wang Yue
 
 # Your name to show in the footer
-author:
-  name: Wang Yue
-  email: "wangyue89@gmail.com"
-  github: heydatatalks    # eg. daattali
+author: Wang Yue
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -54,7 +51,7 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  # email: "someone@example.com"
+  email: "wangyue89@gmail.com"
   # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   # facebook: deanattali
   github: heydatatalks
